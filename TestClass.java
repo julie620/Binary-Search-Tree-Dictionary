@@ -22,9 +22,8 @@ public class TestClass {
         System.out.println("1) Add Entry");
         System.out.println("2) Delete Entry");
         System.out.println("3) Modify Entry");
-        System.out.println("4) Lookup");
-        System.out.println("5) List Number of Entries");
-        System.out.println("6) Exit"); 
+        System.out.println("4) Lookup");;
+        System.out.println("5) Exit"); 
     } // end of intro method
 
     // keeps program running and options shown until user quits
@@ -45,10 +44,7 @@ public class TestClass {
             case 4: // Display Entries
                 lookupOpt(myBST);
                 break;
-            case 5: // List Number of Entries
-
-                break;
-            case 6: // exit the program
+            case 5: // exit the program
                 return false;
             default:
                 System.out.println("That is not a valid option. Try again.");
