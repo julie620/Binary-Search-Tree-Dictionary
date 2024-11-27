@@ -1,3 +1,8 @@
+//Name: Juliana Serrano
+//Date: 11/26/2024
+//Lab 6: Binary Search Tree Dictionary
+// Description: allows a user to add, remove, modify, and display entries on user info (Class 3 of 3)
+
 import java.util.Scanner;
 import java.security.SecureRandom;
 

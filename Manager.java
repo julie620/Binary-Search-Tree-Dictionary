@@ -1,3 +1,8 @@
+//Name: Juliana Serrano
+//Date: 11/26/2024
+//Lab 6: Binary Search Tree Dictionary
+// methods to edit BST and return node information (Class 2 of 3)
+
 public class Manager {
     private Node root;
 

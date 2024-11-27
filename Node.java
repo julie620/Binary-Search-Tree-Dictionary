@@ -1,3 +1,8 @@
+//Name: Juliana Serrano
+//Date: 11/26/2024
+//Lab 6: Binary Search Tree Dictionary
+// strutures nodes for BST; 9 data fields for user information entry (Class 1 of 3)
+
 public class Node {
     private String firstName;
     private String lastName;
